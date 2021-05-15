@@ -1,5 +1,3 @@
-import { StarRate } from "@material-ui/icons";
-
 export const initialState = {
   basket: [],
   user: null,
